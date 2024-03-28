@@ -1,12 +1,6 @@
 # Real Estate Price Prediction Model
 
-In this project, house prices will be predicted given explanatory variables that cover 
-many aspects of residential houses. As continuous house prices, they will be predicted 
-with two supervised machine learning algorithms like Decision tree and Random Forest 
-algorithm and one unsupervised machine learning algorithm named Recurrent neural 
-networks. We will also calculate R square value for each of the model to predict the 
-accuracy. The goal of this project is to create a model that is able to accurately estimate 
-the price of the house given the features
+In this project, house prices will be predicted given explanatory variables that cover many aspects of residential houses. As continuous house prices, they will be predicted with two supervised machine learning algorithms like Decision tree, Random Forest algorithm and Recurrent neural networks. We will also calculate R square value for each of the model to predict the accuracy. The goal of this project is to create a model that is able to accurately estimate the price of the house given the features. The UI of the application is developed using StreamLit library.
 
 ## PROBLEM STATEMENT
 
